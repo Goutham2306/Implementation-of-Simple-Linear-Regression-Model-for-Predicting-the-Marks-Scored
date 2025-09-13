@@ -9,6 +9,7 @@ To write a program to predict the marks scored by a student using the simple lin
 
 ## Algorithm
 <img width="1017" height="403" alt="al ex2 ml" src="https://github.com/user-attachments/assets/a0edb177-3b70-4e4c-a919-d006e3795804" />
+
 ## Program:
 ```
 /*
