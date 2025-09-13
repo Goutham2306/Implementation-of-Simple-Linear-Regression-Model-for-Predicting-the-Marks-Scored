@@ -65,7 +65,9 @@ print("Root Mean Square Error = ",rmse)
 
 ```
 ## Output:
-<img width="381" height="1070" alt="image" src="https://github.com/user-attachments/assets/ae7d0236-6021-41e0-a365-8f3d54723569" />
+<img width="617" height="728" alt="image" src="https://github.com/user-attachments/assets/043ef121-f44e-4d13-bbaa-ebefa6eedfa4" />
+<img width="699" height="458" alt="image" src="https://github.com/user-attachments/assets/962f10c7-1057-491c-8ab6-0f022800df73" />
+<img width="635" height="507" alt="image" src="https://github.com/user-attachments/assets/69d55f79-ed94-4de5-8dc0-aa8635610a85" />
 
 
 
